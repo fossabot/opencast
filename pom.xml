@@ -42,7 +42,7 @@
     <node.version>v10.15.1</node.version>
     <npm.version>6.4.1</npm.version>
     <osgi.compendium.version>5.0.0</osgi.compendium.version>
-    <osgi.core.version>5.0.0</osgi.core.version>
+    <osgi.core.version>6.0.0</osgi.core.version>
     <osgi.enterprise.version>5.0.0</osgi.enterprise.version>
     <querydsl.version>3.7.4</querydsl.version>
   </properties>
