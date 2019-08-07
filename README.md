@@ -2,6 +2,7 @@ Opencast
 ========
 
 [![Build Status](https://travis-ci.org/opencast/opencast.svg?branch=develop)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Flk-gh-test%2Fopencast.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Flk-gh-test%2Fopencast?ref=badge_shield)
 ](https://travis-ci.org/opencast/opencast)
 
 Open Source Lecture Capture & Video Management for Education
@@ -36,3 +37,7 @@ More information about the community:
 - [Documentation](https://docs.opencast.org)
 - [Twitter](https://twitter.com/openmatter)
 - [Facebook](https://facebook.com/opencast)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Flk-gh-test%2Fopencast.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Flk-gh-test%2Fopencast?ref=badge_large)
